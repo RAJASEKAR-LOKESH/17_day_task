@@ -1,4 +1,3 @@
-// script.js
 
 const openWeatherMapApiKey = '584f59aa4f4219b40c26b981ff4ffb7d';
 
