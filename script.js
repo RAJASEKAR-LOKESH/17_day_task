@@ -1,5 +1,5 @@
 
-const openWeatherMapApiKey = '584f59aa4f4219b40c26b981ff4ffb7d';
+const openWeatherMapApiKey = 'API Key';
 
 async function getCountries() {
     let data = await fetch('https://restcountries.com/v3.1/all');
